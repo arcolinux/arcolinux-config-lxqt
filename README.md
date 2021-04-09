@@ -1,1 +1,1 @@
-# ArcoLinux-config Lxqt
+# ArcoLinux-config
